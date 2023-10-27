@@ -2,4 +2,4 @@
 
 恒温床垫
 
-![x](https://kukela-images.oss-cn-shanghai.aliyuncs.com/ThermostatMattress/1.jpg)
+![x](img/1.jpg)
